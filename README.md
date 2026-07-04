@@ -148,7 +148,7 @@ This is useful for:
 ## See Also
 
 - [rebuildap](https://github.com/bwagner/rebuildap)
-- [shift_labels](https://github.com/bwagner/shift_labels)
+- [audacity_shift_labels](https://github.com/bwagner/audacity_shift_labels)
 - [quantize_labels](https://github.com/bwagner/quantize_labels)
 - [beats2bars](https://github.com/bwagner/beats2bars)
 - [audacity_legatize](https://github.com/bwagner/audacity_legatize)
